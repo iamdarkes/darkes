@@ -6,11 +6,11 @@ sidebar:
       title: Welcome
       url: '#intro'
     - is_primary: false
-      title: Blogs
-      url: '#blogs'
-    - is_primary: false
       title: Experience
       url: '#experience'
+    - is_primary: false
+      title: Blogs
+      url: '#blogs'
     - is_primary: false
       title: Get in touch
       url: '#contact'
@@ -28,11 +28,6 @@ sections:
       while leveraging the Spring Framework. Aspiring React aficionado.
     title: Victor Darkes
     type: intro
-  - background_style: style2
-    component: Spotlights
-    section_id: blogs
-    title: Spotlights Section
-    type: spotlights
   - actions:
       - is_primary: false
         is_scrolly: false
@@ -121,6 +116,11 @@ sections:
       backend, mobile and web development.
     title: Experience
     type: features
+  - background_style: style2
+    component: Spotlights
+    section_id: blogs
+    title: Blog Section
+    type: spotlights
   - background_style: style1
     component: Contact
     contact_list:
