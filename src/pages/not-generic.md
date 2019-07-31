@@ -1,10 +1,10 @@
 ---
 title: A Generic Page
 content_img_path: images/pic04.jpg
-menus:
-  main:
-    title: Generic
-    weight: 2
+# menus:
+#   main:
+#     title: Generic-Not
+#     weight: 2
 template: page
 ---
 

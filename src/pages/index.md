@@ -157,10 +157,10 @@ sections:
       reach out or connect with me on all the socials!
     title: Get in touch
     type: contact
-menus:
-  main:
-    title: Home
-    weight: 1
+# menus:
+#   main:
+#     title: Home
+#     weight: 1
 template: home
 ---
 
