@@ -6,7 +6,7 @@ home_spotlights:
   excerpt: My newest technology to tackle has been the web framework React.
   home_img:
     data_position: center center
-    path: images/pic01.jpg
+    path: /images/react-js-black-logo.png
     url: '#'
   weight: 1
 template: page
