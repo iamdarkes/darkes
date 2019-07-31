@@ -3,7 +3,7 @@ title: Making a Website with Stackbit
 content_img_path: /images/stackbit-logo-navy.jpg
 home_spotlights:
   enabled: true
-  excerpt: I was up and running with a modern JAMstack websites in minutes.
+  excerpt: I was up and running with a modern JAMstack website in minutes.
   home_img:
     data_position: top center
     path: /images/stackbit-logo.jpg
@@ -15,10 +15,8 @@ I had no idea I wanted to re-write my personal website. I was in the process of 
 
 I planned on spending the after work free time learning Redux but the good things people had to say about Stackbit had me intrigued. While I was browsing the themes, I decided to created an account. There was a good variety of the options you could choose for setting up your website. I decided to go with Gatsby the React Static Site Generator (SSG) and Netlify CMS for the Content Management System. The configuration I went with was pure chance. I chose Gatsby because I'm currently learning React and I thought it would be a good way to broaden my knowledge of the ecosystem, and I assumed that since the website was begin hosted by Netlify then it would have good support for Netlify CMS. 
 
-Once I connected my GitHub account it generated the site in seconds. I was impressed with the Netlify UI. I instantly updated the content and made the site my own. I'm not sure if Gatsby was the right choice regarding simplicity but I have been able to move components around and add where I want to. I have a couple of improvements I'd like to make so I'm sure I'll get the hang of it.
-
-
+Once I connected my GitHub account it generated the site in seconds. I was impressed with the Netlify UI. I instantly updated the content and made the site my own. I'm not sure if Gatsby was the right choice regarding simplicity, but I have been able to move components around and add where I want to. I have a couple of improvements I'd like to make so I'm sure I'll get the hang of it.
 
 Overall I'm pretty statisfied with Stackbit. It allowed me to create a website with great speed and flexibility. 
 
-_If you have any questions regarding anything mentioned please reach out!_
+**_If you have any questions regarding making a website with Stackbit or anything else please reach out!_**
