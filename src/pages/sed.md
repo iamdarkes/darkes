@@ -1,15 +1,14 @@
 ---
 title: Learning React
-content_img_path: images/pic04.jpg
+content_img_path: /images/react-js-black-logo.png
 home_spotlights:
   enabled: true
-  weight: 1
-  excerpt: >-
-    My newest technology to tackle has been the web framework React.
+  excerpt: My newest technology to tackle has been the web framework React.
   home_img:
-    path: images/pic01.jpg
     data_position: center center
+    path: images/pic01.jpg
     url: '#'
+  weight: 1
 template: page
 ---
 
