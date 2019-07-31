@@ -117,11 +117,11 @@ sections:
         title: Side Project - Musiciality
     section_id: experience
     subtitle: >-
-      I've had the please of working at some wonderful companies doing backend,
-      mobile and web development.
+      I've had the pleasure of working at some wonderful companies doing
+      backend, mobile and web development.
     title: Experience
     type: features
-  - background_style: style1
+  - background_style: style2
     component: Contact
     contact_list:
       - text: vjdarkes@outlook.com
