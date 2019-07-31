@@ -11,7 +11,14 @@ home_spotlights:
   weight: 2
 template: page
 ---
+I had no idea I wanted to re-write my personal website. I was in the process of learning React and had recently joined the Dev.to community and saw someone mention Stackbit. I personally had wanted to have a better looking website than the one I had made in college but I was intimidated by all the options and didn't want to use anything more advance than plain ol' HTML and CSS because I didn't know any other frontend languages frameworks. I was interested in having a personal blog as a way to share my challenges, and I had previously looked at Jekyll, Ghost and WordPress but never took the jump. 
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+I planned on spending the after work free time learning Redux but the good things people had to say about Stackbit had me intrigued. While I was browsing the themes, I decided to created an account. There was a good variety of the options you could choose for setting up your website. I decided to go with Gatsby the React Static Site Generator (SSG) and Netlify CMS for the Content Management System. The configuration I went with was pure chance. I chose Gatsby because I'm currently learning React and I thought it would be a good way to broaden my knowledge of the ecosystem, and I assumed that since the website was begin hosted by Netlify then it would have good support for Netlify CMS. 
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Once I connected my GitHub account it generated the site in seconds. I was impressed with the Netlify UI. I instantly updated the content and made the site my own. I'm not sure if Gatsby was the right choice regarding simplicity but I have been able to move components around and add where I want to. I have a couple of improvements I'd like to make so I'm sure I'll get the hang of it.
+
+
+
+Overall I'm pretty statisfied with Stackbit. It allowed me to create a website with great speed and flexibility. 
+
+_If you have any questions regarding anything mentioned please reach out!_
