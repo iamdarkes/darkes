@@ -24,7 +24,7 @@ sections:
     component: Intro
     section_id: intro
     subtitle: >-
-      Backend Software Engineer who writes microservices in Kotlin &amp; Java
+      A backend Software Engineer who writes microservices in Kotlin &amp; Java
       leveraging the Spring Framework. Aspiring React aficionado.
     title: Victor Darkes
     type: intro
