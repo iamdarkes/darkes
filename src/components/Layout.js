@@ -17,6 +17,7 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')} />
                     <link rel="stylesheet" href={safePrefix('assets/css/markdown-images.css')} />
+                    <link rel="shortcut icon" href={safePrefix("images/bitme.png")} />
                     <noscript>{`<link rel="stylesheet" href=${safePrefix('assets/css/noscript.css')} />`}</noscript>
                 </Helmet>
                     {(_.get(this.props, 'pageContext.frontmatter.template') === 'home') ? 
