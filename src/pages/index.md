@@ -30,7 +30,7 @@ sections:
     type: intro
   - background_style: style2
     component: Spotlights
-    section_id: one
+    section_id: blogs
     title: Spotlights Section
     type: spotlights
   - actions:
@@ -115,7 +115,7 @@ sections:
           the app. I made a website and I had it published on the Google Play
           Store.
         title: Side Project - Musiciality
-    section_id: two
+    section_id: experience
     subtitle: >-
       I've had the please of working at some wonderful companies doing backend,
       mobile and web development.
@@ -127,7 +127,7 @@ sections:
       - text: vjdarkes@outlook.com
         title: Email
         url: '#'
-    section_id: three
+    section_id: contact
     social:
       social_icons:
         - icon: fa-linkedin
