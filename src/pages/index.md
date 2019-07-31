@@ -55,7 +55,7 @@ sections:
           GraphQL, AWS SQS, S3, DynamoDB, RDS, ElastiCache, Lambda & CloudWatch,
           Spring 5.X, Spring Boot 2.X, Mockito, WireMock and Rest Assured.
         title: Backend Software Engineer - The Walt Disney Company
-      - icon: fa-shield-alt
+      - icon: fa-shield
         text: >-
           Supported cybersecurity filmed entertainment business leaders in
           monitoring and reporting business system patching status, including
@@ -142,7 +142,7 @@ sections:
         - icon: fa-medium
           title: Medium
           url: 'https://medium.com/@darkes'
-        - icon: laptop
+        - icon: fa-laptop
           title: Dev
           url: 'https://dev.to/darkes'
         - icon: fa-github
