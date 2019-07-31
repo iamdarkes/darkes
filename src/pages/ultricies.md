@@ -8,12 +8,9 @@ home_spotlights:
     better?
   home_img:
     data_position: 25% 25%
-    path: /images/kotlin-logo-gradient.jpeg
+    path: /images/kotlin-logo-black.png
     url: '#'
-  weight: 3
+  weight: 2
 template: page
 ---
-
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+First to start off they are both great languages to use. Java has been the go to language for developing backend systems since its inception 20 years ago. In the near to long term, it will continue to be a major player in the software industry. However, there have been a lot has changes with the Java ecosystem in the past few years.
