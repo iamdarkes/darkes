@@ -126,7 +126,7 @@ sections:
     contact_list:
       - text: vjdarkes@outlook.com
         title: Email
-        url: '#'
+        url: 'mailto:vjdarkes@outlook.com'
     section_id: contact
     social:
       social_icons:
