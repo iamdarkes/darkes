@@ -106,7 +106,7 @@ sections:
           Used Amazon Web Services S3, along with ZXing, Realm, EasyPrefs, Gson
           and Volley Android libraries.
         title: Software Engineering Intern - NASA Jet Propulsion Laboratory
-      - icon: fa-diamond
+      - icon: fa-music
         text: >-
           [Musicality](https://darkes.me/musicality/) is a musician utility app
           that contains a guitar tuner, metronome and beats per minute
