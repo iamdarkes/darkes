@@ -9,8 +9,8 @@ sidebar:
       title: Experience
       url: '#experience'
     - is_primary: false
-      title: Blogs
-      url: '#blogs'
+      title: Blog
+      url: '#blog'
     - is_primary: false
       title: Get in touch
       url: '#contact'
@@ -118,7 +118,7 @@ sections:
     type: features
   - background_style: style2
     component: Spotlights
-    section_id: blogs
+    section_id: blog
     title: Blog Section
     type: spotlights
   - background_style: style1
