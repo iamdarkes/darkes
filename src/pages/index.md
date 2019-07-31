@@ -44,8 +44,8 @@ sections:
       - icon: fa-code
         text: >-
           Responsible for designing, implementing, maintaining and deploying
-          multiple backend microservices used by Movies Anywhere for it's 7
-          million users. 
+          multiple backend microservices used by [Movies
+          Anywhere](https://moviesanywhere.com) for it's 7 million users. 
 
 
           I use a lot of cool technology at work. Here's a run down of of the
@@ -121,7 +121,7 @@ sections:
       backend, mobile and web development.
     title: Experience
     type: features
-  - background_style: style2
+  - background_style: style1
     component: Contact
     contact_list:
       - text: vjdarkes@outlook.com
