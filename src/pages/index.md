@@ -142,7 +142,7 @@ sections:
         - icon: fa-medium
           title: Medium
           url: 'https://medium.com/@darkes'
-        - icon: fa-dev
+        - icon: laptop-code
           title: Dev
           url: 'https://dev.to/darkes'
         - icon: fa-github
