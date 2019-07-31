@@ -55,7 +55,7 @@ sections:
           GraphQL, AWS SQS, S3, DynamoDB, RDS, ElastiCache, Lambda & CloudWatch,
           Spring 5.X, Spring Boot 2.X, Mockito, WireMock and Rest Assured.
         title: Backend Software Engineer - The Walt Disney Company
-      - icon: fa-lock
+      - icon: fa-shield-alt
         text: >-
           Supported cybersecurity filmed entertainment business leaders in
           monitoring and reporting business system patching status, including
@@ -67,7 +67,7 @@ sections:
           vulnerability management program for the Filmed Entertainment
           business.
         title: Cyber Security Associate - NBCUniversal
-      - icon: fa-cog
+      - icon: fa-java
         text: >-
           Part of a team that worked with backend web services that interacted
           with global Walt Disney Parks and Resorts' websites. Worked with Java
@@ -93,7 +93,7 @@ sections:
 
           Created mockups for potential sites with Adobe Illustrator.
         title: Web Developer - California State Polytechnic University-Pomona
-      - icon: fa-chain
+      - icon: fa-android
         text: >-
           Developed an Android mobile application to be used as a spacecraft
           assembly workflow tracking system. Engineering and QA use QR coded
