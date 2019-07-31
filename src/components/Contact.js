@@ -12,27 +12,6 @@ export default class Contact extends React.Component {
                     {markdownify(_.get(this.props, 'section.text'))}
                     <div className="split style1">
                         <section>
-                            <form method="post" action="#">
-                                <div className="fields">
-                                    <div className="field half">
-                                        <label htmlFor="name">Name</label>
-                                        <input type="text" name="name" id="name" />
-                                    </div>
-                                    <div className="field half">
-                                        <label htmlFor="email">Email</label>
-                                        <input type="text" name="email" id="email" />
-                                    </div>
-                                    <div className="field">
-                                        <label htmlFor="message">Message</label>
-                                        <textarea name="message" id="message" rows="5" />
-                                    </div>
-                                </div>
-                                <ul className="actions">
-                                    <li><Link to="" className="button submit">Send Message</Link></li>
-                                </ul>
-                            </form>
-                        </section>
-                        <section>
                             <ul className="contact">
                                 {_.get(this.props, 'section.contact_list') && 
                                     _.map(_.get(this.props, 'section.contact_list'), (item, item_idx) => (
