@@ -10,7 +10,7 @@ export default class Contact extends React.Component {
                 <div className="inner">
                     <h2>{_.get(this.props, 'section.title')}</h2>
                     {markdownify(_.get(this.props, 'section.text'))}
-                    <div className="split style1">
+                    <div className="style1">
                         <section>
                             <ul className="contact">
                                 {_.get(this.props, 'section.contact_list') && 
