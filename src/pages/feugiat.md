@@ -1,15 +1,14 @@
 ---
 title: Making a Website with Stackbit
-content_img_path: images/pic04.jpg
+content_img_path: /images/stackbit-logo-navy.jpg
 home_spotlights:
   enabled: true
-  weight: 2
-  excerpt: >-
-    I was up and running with a modern JAMstack websites in minutes.
+  excerpt: I was up and running with a modern JAMstack websites in minutes.
   home_img:
-    path: images/pic02.jpg
     data_position: top center
+    path: /images/stackbit-logo-navy.jpg
     url: '#'
+  weight: 2
 template: page
 ---
 
