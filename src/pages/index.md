@@ -19,7 +19,7 @@ sections:
       - is_primary: false
         is_scrolly: true
         label: Learn more
-        url: '#blogs'
+        url: '#experience'
     background_style: style1
     component: Intro
     section_id: intro
