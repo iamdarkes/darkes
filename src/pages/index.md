@@ -19,7 +19,7 @@ sections:
       - is_primary: false
         is_scrolly: true
         label: Learn more
-        url: '#one'
+        url: '#blogs'
     background_style: style1
     component: Intro
     section_id: intro
@@ -67,7 +67,7 @@ sections:
           vulnerability management program for the Filmed Entertainment
           business.
         title: Cyber Security Associate - NBCUniversal
-      - icon: fa-java
+      - icon: fa-terminal
         text: >-
           Part of a team that worked with backend web services that interacted
           with global Walt Disney Parks and Resorts' websites. Worked with Java
@@ -142,7 +142,7 @@ sections:
         - icon: fa-medium
           title: Medium
           url: 'https://medium.com/@darkes'
-        - icon: laptop-code
+        - icon: laptop
           title: Dev
           url: 'https://dev.to/darkes'
         - icon: fa-github
