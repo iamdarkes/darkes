@@ -1,12 +1,11 @@
 ---
-title: Feugiat consequat
+title: Making a Website with Stackbit
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
   weight: 2
   excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+    I was up and running with a modern JAMstack websites in minutes.
   home_img:
     path: images/pic02.jpg
     data_position: top center

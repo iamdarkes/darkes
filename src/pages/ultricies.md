@@ -1,12 +1,11 @@
 ---
-title: Ultricies aliquam
+title: Kotlin vs Java
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
   weight: 3
   excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+    Two great languages typically used in backend development, but which one is better?
   home_img:
     path: images/pic03.jpg
     data_position: 25% 25%

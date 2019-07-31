@@ -19,13 +19,13 @@ export default class Features extends React.Component {
                             </section>
                         ))}
                     </div>
-                    {_.get(this.props, 'section.actions') && 
+                    {/* {_.get(this.props, 'section.actions') && 
                         <ul className="actions">
                             {_.map(_.get(this.props, 'section.actions'), (action, action_idx) => (
                                 <li key={action_idx}><Link to={(_.get(action, 'url').startsWith('#') ? _.get(action, 'url') : safePrefix(_.get(action, 'url')))} className={classNames('button', {'primary': _.get(action, 'is_primary')}, {'scrolly': _.get(action, 'is_scrolly')})}>{_.get(action, 'label')}</Link></li>
                             ))}
                         </ul>
-                    }
+                    } */}
                 </div>
             </section>
         );
