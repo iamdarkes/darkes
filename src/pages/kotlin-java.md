@@ -19,4 +19,4 @@ Oracle has began to build a wall around Java with their shorter LTS windows and 
 
 Personally I believe there is a place for both languages. I think Java will continue to be a popular language for years to come, but that might not be the case forever, as Kotlin continues to grow.
 
-_Do you program in Kotlin or Java? Let me know your opinion!_
+**_Do you program in Kotlin or Java? Let me know your opinion!_**
