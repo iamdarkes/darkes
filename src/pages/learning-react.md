@@ -17,4 +17,4 @@ The reason I chose React over other view frameworks is simple. React is _very_ p
 
 It's been fun and a lot less challenging than it was during the other times I tried to learn.
 
-_Share with me your React and JavaScript experiences!_
+**_Share with me your React and JavaScript experiences!_**
