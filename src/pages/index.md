@@ -103,7 +103,7 @@ sections:
         title: Software Engineering Intern - NASA Jet Propulsion Laboratory
       - icon: fa-music
         text: >-
-          [Musicality](https://darkes.me/musicality/) is a musician utility app
+          [Musicality](https://musicality.darkes.me/) is a musician utility app
           that contains a guitar tuner, metronome and beats per minute
           calculator. I implemented a feature new to Android 7.1 (API level 25)
           called app shortcuts that allow users to go straight to a feature in
@@ -159,4 +159,3 @@ sections:
     type: contact
 template: home
 ---
-
