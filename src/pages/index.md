@@ -4,28 +4,27 @@ sidebar:
   entries:
     - is_primary: true
       title: Welcome
-      url: '#intro'
+      url: "#intro"
     - is_primary: false
       title: Experience
-      url: '#experience'
+      url: "#experience"
     - is_primary: false
       title: Blog
-      url: '#blog'
+      url: "#blog"
     - is_primary: false
       title: Get in touch
-      url: '#contact'
+      url: "#contact"
 sections:
   - actions:
       - is_primary: false
         is_scrolly: true
         label: Learn more
-        url: '#experience'
+        url: "#experience"
     background_style: style1
     component: Intro
     section_id: intro
-    subtitle: >-
-      A backend Software Engineer who writes microservices in Kotlin &amp; Java
-      leveraging the Spring Framework. Aspiring React aficionado.
+    subtitle: A back-end Software Engineer who writes microservices in Kotlin &amp;
+      Java, while leveraging the Spring Framework. Aspiring React aficionado.
     title: Victor Darkes
     type: intro
   - actions:
@@ -43,16 +42,10 @@ sections:
           Anywhere](https://moviesanywhere.com) for it's 7 million users. 
 
 
-          I use a lot of cool technology at work. Here's a run down of of the
-          languages, technologies, frameworks and libraries I use: Java, Kotlin,
-          Docker, Kubernetes, GitLab CI, Helm, Hashicorp Terraform, Apache
-          Kafka, Redis, Atlassian Confluence & Jira, New Relic, Postgres DB,
-          GraphQL, AWS SQS, S3, DynamoDB, RDS, ElastiCache, Lambda & CloudWatch,
-          Spring 5.X, Spring Boot 2.X, Mockito, WireMock and Rest Assured.
+          I use a lot of cool technology at work. Here's a run down of of the languages, technologies, frameworks and libraries I use: Java, Kotlin, Docker, Kubernetes, GitLab CI, Helm, Hashicorp Terraform, Apache Kafka, Redis, Atlassian Confluence & Jira, New Relic, Postgres DB, GraphQL, AWS SQS, S3, DynamoDB, RDS, ElastiCache, Lambda & CloudWatch, Spring 5.X, Spring Boot 2.X, Mockito, WireMock and Rest Assured.
         title: Backend Software Engineer - The Walt Disney Company
       - icon: fa-shield
-        text: >-
-          Supported cybersecurity filmed entertainment business leaders in
+        text: Supported cybersecurity filmed entertainment business leaders in
           monitoring and reporting business system patching status, including
           engaging with key technical business stakeholders. Day to day
           responsibilities consisted of cataloging, prioritizing and supporting
@@ -74,16 +67,14 @@ sections:
           tracking tickets.
 
 
-          Used Java, Apache Tomcat, Splunk, Apigee, Docker and Atlassian Jira &
-          Confluence.
+          Used Java, Apache Tomcat, Splunk, Apigee, Docker and Atlassian Jira & Confluence.
         title: Software Engineering Intern - Disney Parks & Resorts
       - icon: fa-desktop
         text: >-
           Designed, built and maintained web pages using HTML and CSS. 
 
 
-          Used Bootstrap 3 front-end framework along with both Cascade and
-          WordPress as a CMS. 
+          Used Bootstrap 3 front-end framework along with both Cascade and WordPress as a CMS. 
 
 
           Created mockups for potential sites with Adobe Illustrator.
@@ -98,21 +89,18 @@ sections:
           during assembly.
 
 
-          Used Amazon Web Services S3, along with ZXing, Realm, EasyPrefs, Gson
-          and Volley Android libraries.
+          Used Amazon Web Services S3, along with ZXing, Realm, EasyPrefs, Gson and Volley Android libraries.
         title: Software Engineering Intern - NASA Jet Propulsion Laboratory
       - icon: fa-music
-        text: >-
-          [Musicality](https://musicality.darkes.me/) is a musician utility app
+        text: "[Musicality](https://musicality.darkes.me/) is a musician utility app
           that contains a guitar tuner, metronome and beats per minute
           calculator. I implemented a feature new to Android 7.1 (API level 25)
           called app shortcuts that allow users to go straight to a feature in
           the app. I made a website and I had it published on the Google Play
-          Store.
+          Store."
         title: Side Project - Musiciality
     section_id: experience
-    subtitle: >-
-      I've had the pleasure of working at some wonderful companies doing
+    subtitle: I've had the pleasure of working at some wonderful companies doing
       backend, mobile and web development.
     title: Experience
     type: features
@@ -126,34 +114,33 @@ sections:
     contact_list:
       - text: vjdarkes@outlook.com
         title: Email
-        url: 'mailto:vjdarkes@outlook.com'
+        url: mailto:vjdarkes@outlook.com
     section_id: contact
     social:
       social_icons:
         - icon: fa-linkedin
           title: LinkedIn
-          url: 'https://linkedin.com/in/darkes/'
+          url: https://linkedin.com/in/darkes/
         - icon: fa-twitter
           title: Twitter
-          url: 'https://twitter.com/iamdarkes'
+          url: https://twitter.com/iamdarkes
         - icon: fa-instagram
           title: Instagram
-          url: 'https://www.instagram.com/iamdarkes/'
+          url: https://www.instagram.com/iamdarkes/
         - icon: fa-medium
           title: Medium
-          url: 'https://medium.com/@darkes'
+          url: https://medium.com/@darkes
         - icon: fa-laptop
           title: Dev
-          url: 'https://dev.to/darkes'
+          url: https://dev.to/darkes
         - icon: fa-github
           title: GitHub
-          url: 'https://github.com/iamdarkes'
+          url: https://github.com/iamdarkes
         - icon: fa-gitlab
           title: GitLab
-          url: 'https://gitlab.com/darkes'
+          url: https://gitlab.com/darkes
       title: Social
-    text: >-
-      I'm always interested from hearing from others so please feel free to
+    text: I'm always interested from hearing from others so please feel free to
       reach out or connect with me on all the socials!
     title: Get in touch
     type: contact
