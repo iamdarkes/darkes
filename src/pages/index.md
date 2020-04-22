@@ -39,10 +39,10 @@ sections:
         text: >-
           Responsible for designing, implementing, maintaining and deploying
           multiple backend microservices used by [Movies
-          Anywhere](https://moviesanywhere.com) for it's 7 million users. 
+          Anywhere](https://moviesanywhere.com) for it's 9 million users. 
 
 
-          I use a lot of cool technology at work. Here's a run down of of the languages, technologies, frameworks and libraries I use: Java, Kotlin, Docker, Kubernetes, GitLab CI, Helm, Hashicorp Terraform, Apache Kafka, Redis, Atlassian Confluence & Jira, New Relic, Postgres DB, GraphQL, AWS SQS, S3, DynamoDB, RDS, ElastiCache, Lambda & CloudWatch, Spring 5.X, Spring Boot 2.X, Mockito, WireMock and Rest Assured.
+          I use a lot of cool technology at work. Here's a run down of of the languages, technologies, frameworks and libraries I use: Java, Kotlin, JavaScript, React, Docker, Kubernetes, GitLab CI, Helm, Hashicorp Terraform, Apache Kafka, Redis, Atlassian Confluence & Jira, New Relic, Postgres DB, GraphQL, AWS SQS, S3, DynamoDB, RDS, ElastiCache, Lambda & CloudWatch, Spring 5.X, Spring Boot 2.X, Mockito, WireMock and Rest Assured.
         title: Backend Software Engineer - The Walt Disney Company
       - icon: fa-shield
         text: Supported cybersecurity filmed entertainment business leaders in
@@ -57,7 +57,7 @@ sections:
         title: Cyber Security Associate - NBCUniversal
       - icon: fa-terminal
         text: >-
-          Part of a team that worked with backend web services that interacted
+          Part of a team that worked with back-end web services that interacted
           with global Walt Disney Parks and Resorts' websites. Worked with Java
           web services using technologies such as Docker, Apache Tomcat, and
           Maven. Created alerts and dashboards using Splunk to monitor and
@@ -94,14 +94,12 @@ sections:
       - icon: fa-music
         text: "[Musicality](https://musicality.darkes.me/) is a musician utility app
           that contains a guitar tuner, metronome and beats per minute
-          calculator. I implemented a feature new to Android 7.1 (API level 25)
-          called app shortcuts that allow users to go straight to a feature in
-          the app. I made a website and I had it published on the Google Play
-          Store."
+          calculator. I made a product website for the app and I had the app
+          published on the Google Play Store."
         title: Side Project - Musiciality
     section_id: experience
     subtitle: I've had the pleasure of working at some wonderful companies doing
-      backend, mobile and web development.
+      back-end, mobile and web development.
     title: Experience
     type: features
   - background_style: style2
