@@ -125,15 +125,13 @@ models:
             fields:
               - type: string
                 name: title
-                label: Title
-                description: The title displayed in the page sidebar
+                label: Button Label
+                description: The text displayed inside the button
               - type: string
                 name: url
                 label: URL
                 widget: url
-                description: >-
-                  the URL (/generic, or /feugiat ...), or section ID (like
-                  #intro or #one ...) of the sidebar entry
+                description: the social URL
   home:
     type: page
     label: Home

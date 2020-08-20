@@ -14,10 +14,10 @@ export default class Call extends React.Component {
                         <div className="inner">
                             {_.get(this.props, 'pageContext.frontmatter.title') &&
                             <h1 className="major">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>}
-                            {_.map(this.props.pageContext.frontmatter.socials, (social, section_idx) => {
+                            {_.map(this.props.pageContext.frontmatter.socials, (action, section_idx) => {
                                 let ConnectComponent = Connect
                                 return (
-                                    <ConnectComponent key={section_idx} {...this.props} social={social} site={this.props.pageContext.site} page={this.props.pageContext} />
+                                    <ConnectComponent key={section_idx} {...this.props} action={action} site={this.props.pageContext.site} page={this.props.pageContext} />
                                 )
                             })}
                         </div>
