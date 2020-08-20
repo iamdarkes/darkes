@@ -1,5 +1,6 @@
 ---
 title: Learning React
+date: August 19, 2020 11:04 AM
 content_img_path: /images/react-js-black-logo.png
 home_spotlights:
   enabled: true
