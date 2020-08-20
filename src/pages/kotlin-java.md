@@ -1,5 +1,6 @@
 ---
 title: Kotlin vs Java
+date: August 19, 2020 9:29 PM
 content_img_path: /images/kotlin-logo-gradient.jpeg
 home_spotlights:
   enabled: true
