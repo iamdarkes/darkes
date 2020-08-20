@@ -201,6 +201,10 @@ models:
         name: title
         label: Page Title
         required: true
+      - type: datetime
+        name: date
+        label: Date
+        required: true
       - type: image
         name: content_img_path
         label: Content Image
