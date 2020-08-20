@@ -1,5 +1,5 @@
 ---
-title: Connect with me!
+title: Let's Connect!
 socials:
   actions:
     - label: Twitter
@@ -16,11 +16,9 @@ socials:
       url: https://www.instagram.com/iamdarkes
     - label: GitHub
       url: https://github.com/iamdarkes
-    - label: Medium
-      url: https://medium.com/@darkes
     - label: Gitlab
       url: https://gitlab.com/darkes
-    - label: Darkes.me
-      url: https://darkes.me/
+    - label: Medium
+      url: https://medium.com/@darkes
 template: connect
 ---
