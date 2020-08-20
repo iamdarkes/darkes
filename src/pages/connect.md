@@ -1,24 +1,24 @@
 ---
-title: Connect
+title: Connect with me!
 socials:
   - actions:
       - label: Twitter
-        url: "https://twitter.com/iamdarkes"
+        url: https://twitter.com/iamdarkes
       - label: LinkedIn
-        url: "https://linkedin.com/in/darkes"
+        url: https://linkedin.com/in/darkes
       - label: Blog & Newsletter
-        url: "https://darkes.hashnode.dev"
+        url: https://darkes.hashnode.dev
       - label: TikTok
-        url: "https://www.tiktok.com/@iamdarkes"
+        url: https://www.tiktok.com/@iamdarkes
       - label: DEV Community
-        url: "https://dev.to/darkes"
+        url: https://dev.to/darkes
       - label: Instagram
-        url: "https://www.instagram.com/iamdarkes"
+        url: https://www.instagram.com/iamdarkes
       - label: GitHub
-        url: "https://github.com/iamdarkes"
+        url: https://github.com/iamdarkes
       - label: Medium
-        url: "https://medium.com/@darkes"
+        url: https://medium.com/@darkes
       - label: Gitlab
-        url: "https://gitlab.com/darkes"
+        url: https://gitlab.com/darkes
 template: connect
 ---
