@@ -20,5 +20,7 @@ socials:
       url: https://medium.com/@darkes
     - label: Gitlab
       url: https://gitlab.com/darkes
+    - label: Darkes.me
+      url: https://darkes.me/
 template: connect
 ---
