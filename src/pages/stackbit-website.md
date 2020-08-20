@@ -1,5 +1,6 @@
 ---
 title: Making a Website with Stackbit
+date: August 19, 2020 11:05 AM
 content_img_path: /images/stackbit-logo-navy.jpg
 home_spotlights:
   enabled: true
