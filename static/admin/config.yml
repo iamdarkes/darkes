@@ -658,3 +658,33 @@ collections:
                 required: false
                 hint: Position for sorting
                 valueType: int
+  - name: connect
+    label: Connect
+    files:
+      - name: connect
+        label: Connect
+        file: src/pages/connect.md
+    fields:
+      - widget: string
+          name: title
+          label: Connect title
+          required: false
+      - widget: object
+          name: socials
+          label: Social Links
+          required: false
+          fields:
+            - widget: list
+              name: actions
+              label: Social Action Buttons
+              required: false
+              fields:
+                - widget: string
+                  name: label
+                  label: Button Label
+                  required: false
+                  hint: The text displayed inside the button
+                - widget: string
+                  name: url
+                  label: URL
+                  required: false

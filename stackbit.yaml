@@ -101,6 +101,39 @@ models:
               name: new_window
               label: Open in new window
               default: true
+  connect:
+    type: page
+    label: Connect
+    hideContent: true
+    singleInstance: true
+    template: connect
+    file: connect.md
+    fields:
+      - type: string
+        name: title
+        label: Connect Title
+        required: false
+        description: The title of the page
+      - type: object
+        name: socials
+        label: Connect Socials
+        fields:
+          - type: list
+            name: actions
+            label: Connect Actions
+            description: Social links
+            fields:
+              - type: string
+                name: title
+                label: Title
+                description: The title displayed in the page sidebar
+              - type: string
+                name: url
+                label: URL
+                widget: url
+                description: >-
+                  the URL (/generic, or /feugiat ...), or section ID (like
+                  #intro or #one ...) of the sidebar entry
   home:
     type: page
     label: Home
@@ -163,7 +196,7 @@ models:
         description: Which menus should this page show up in
   page:
     type: page
-    label: page
+    label: Page
     template: page
     fields:
       - type: string
@@ -182,7 +215,7 @@ models:
             name: enabled
             label: enabled
             default: false
-            description: If the page is desplayed in the home spotlights section
+            description: If the page is displayed in the home spotlights section
           - type: number
             name: weight
             label: Home Spotlight Index

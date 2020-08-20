@@ -1,3 +1,4 @@
+import Connect from './Connect';
 import Contact from './Contact';
 import Features from './Features';
 import Footer from './Footer';
@@ -8,6 +9,7 @@ import Spotlights from './Spotlights';
 import Layout from './Layout';
 
 export {
+    Connect,
     Contact,
     Features,
     Footer,
@@ -15,10 +17,11 @@ export {
     Intro,
     Sidebar,
     Spotlights,
-    Layout
+    Layout,
 };
 
 export default {
+    Connect,
     Contact,
     Features,
     Footer,
@@ -26,5 +29,5 @@ export default {
     Intro,
     Sidebar,
     Spotlights,
-    Layout
+    Layout,
 };
